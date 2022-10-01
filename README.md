@@ -16,7 +16,6 @@ or follow SHAPEAI on:
 <li><a href=
 "https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 href=
-"https://www.youtube.com/channel/UCTUVDLTW9meuDXWcbmISPdA">YouTu
-be</a>
+"https://www.youtube.com/channel/UCTUVDLTW9meuDXWcbmISPdA">YouTube</a>
 <li><a href=
 "https://github.com/shapeal">GitHub</a>
